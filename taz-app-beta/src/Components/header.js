@@ -6,9 +6,12 @@ const Header = () => {
 
     <header>
 
-      <h1>Taz App</h1>
+      <h1>Welcome to Taz's App</h1>
 
-      {/* Add navigation and other components as needed */}
+      {
+
+      /* Add navigation and other components as needed */
+      }
 
     </header>
 
